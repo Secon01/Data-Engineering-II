@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.~lock.*#
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+syft_env/
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Assignment 4: MNIST is downloaded automatically by the training script
+Assignment 4/data/
+
+# Tracked separately at https://github.com/Secon01/de2-project3
+Project/project3/
